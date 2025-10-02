@@ -1,0 +1,23 @@
+iBARAKO LOAN AGREEMENT
+
+This Loan Agreement is made between iBarako and the member.
+
+LOAN TERMS:
+- Loan Type: [Type]
+- Principal Amount: [Amount]
+- Interest Rate: [Rate]% per month
+- Term: [Term] months
+- Monthly Payment: [Payment]
+
+MEMBER AGREES TO:
+- Make timely monthly payments
+- Provide accurate payment information
+- Upload payment receipts for verification
+- Notify of any payment issues
+
+ADMINISTRATOR AGREES TO:
+- Provide clear payment instructions
+- Verify payments promptly
+- Maintain confidentiality of information
+
+By signing this agreement, both parties agree to abide by these terms.
