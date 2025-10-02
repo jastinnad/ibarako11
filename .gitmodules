@@ -1,3 +1,6 @@
 [submodule "TCPDF"]
 	path = TCPDF
 	url = https://github.com/tecnickcom/TCPDF.git
+[submodule "path/to/TCPDF"]
+	path = path/to/TCPDF
+	url = https://github.com/tecnickcom/TCPDF.git
